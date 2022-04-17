@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "'SnowFlake' 개발 블로그"
+title                    : "SnowFlak 개발 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Enok Park"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Enok Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자 준비중인 꿈나무. 프론트엔드 입문하고 있습니다."
+  bio              : "개발에 관심이 많은 프론트엔드 꿈나무."
   location         : "Gwangju, Korea"
   email            :
   links:
